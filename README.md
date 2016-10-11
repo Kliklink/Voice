@@ -12,7 +12,7 @@ Voice requires your own free API-Key from [VoiceRSS.org](http://www.voicerss.org
 <br>Are you sure that you've turned up the volume? Test this by typing some long string in the text field. Then click on 'Speech Text'. Immediately press the volume up button.
 <br>If it's still not working, make sure that you have an active internet connection and a working API-Key.
 
-If you are on an Ubuntu Touch device you can click [here](scope://com.canonical.scopes.clickstore?q=VoiceBySander) to install Voice.
+If you are on an Ubuntu Touch device you can click <a href="scope://com.canonical.scopes.clickstore?q=VoiceBySander">here</a> to install Voice.
 
 <b>Contribute</b>
 <br>If you want to help me with the development of Voice, you can do several things:
