@@ -17,8 +17,8 @@ If you are on an Ubuntu Touch device you can click [here](https://uappexplorer.c
 <b>Contribute</b>
 <br>If you want to help me with the development of Voice, you can do several things:
 
-<p>*Mail me or create an issue if you want to see something new in the app, or if there's something wrong;
+<p>*Create an issue if you want to see something new in the app, or if there's something wrong;
 <br>*if you are a strong coder, you can create a pull request.</p>
 
-Contact: [contact@deubuntublog.nl](contact@deubuntublog.nl)
+Contact: please open an issue
 <br>Developer: Sander Klootwijk
